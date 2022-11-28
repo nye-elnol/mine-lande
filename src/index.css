@@ -1,0 +1,60 @@
+:root {
+  --main-clr: #9d4d45;
+  --white-clr: #fff;
+  --gray-clr: #2c2b2b;
+
+  --xs: 0.33rem;
+  --s: 1.11rem;
+  --ss: 1.33rem;
+  --m: 2.2rem;
+  --xxl: 77rem;
+
+  --transition: all 0.444s ease;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  font-size: 1.25em;
+  background-image: url('../public/auroraUnsplashOpacity.jpg');
+  background-size: cover;
+  color: #3a3a3a;
+}
+
+input, textarea {
+  color: #3a3a3a;
+  padding: var(--xs);
+  font-size: 1em;
+  border-radius: var(--xs);
+  border: 0.1rem solid #d4d4d4;
+  background-color: #fff;
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.share {
+  text-align: center;
+  margin: var(--m) auto;
+  color: #333;
+}
+
+a {
+  color: var(--white-clr);
+}
+
+.loading, .err {
+  text-align: center;
+  margin: var(--m) auto;
+}

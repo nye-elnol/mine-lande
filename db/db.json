@@ -1,0 +1,100 @@
+{
+  "countries": [
+    {
+      "id": "1",
+      "name": "Mauretanien",
+      "famCities": [
+        "Nouakchott",
+        "Atar",
+        "Nouadhibou",
+        "Zoueratt"
+      ],
+      "generalInfo": "Mauretanien er et land og en suveræn stat i Nordvestafrika. Det grænser op til Atlanterhavet mod vest, Vestsahara mod nord og nordvest, Algeriet mod nordøst, Mali mod øst og sydøst, og Senegal mod sydvest. Mauretanien er det ellevte største land i Afrika, og 90 procent af dets territorium ligger i Sahara. Det meste af befolkningen på 4,4 millioner bor i den tempererede sydlige del af landet, med omkring en tredjedel koncentreret i hovedstaden og den største by, Nouakchott, der ligger på Atlanterhavskysten",
+      "area": "1,030,700"
+    },
+    {
+      "id": "2",
+      "name": "Danmark",
+      "famCities": [
+        "København",
+        "Århus",
+        "Odense",
+        "Ålborg"
+      ],
+      "generalInfo": "Danmark er et nordisk land i Nordeuropa. Det er det sydligste af de skandinaviske lande, der ligger sydvest for Sverige, syd for Norge og nord for Tyskland. Danmark består af halvøen Jylland og en øgruppe på 443 navngivne øer, hvoraf de største er Sjælland, Fyn og den nordjyske ø",
+      "area": "42,943"
+    },
+    {
+      "id": "3",
+      "name": "Marokko",
+      "famCities": [
+        "Rabat",
+        "Casablanca",
+        "Agadir",
+        "Tangier"
+      ],
+      "generalInfo": "Marokko er det vestligste land i Maghreb-regionen i Nordafrika. Det har udsigt over Middelhavet mod nord og Atlanterhavet mod vest og har landegrænser til Algeriet mod øst og det omstridte område Vestsahara mod syd. Marokko gør også krav på de spanske eksklaver Ceuta, Melilla og Peñón de Vélez de la Gomera og flere små spansk-kontrollerede øer ud for landets kyst",
+      "area": "710,850"
+    },
+    {
+      "id": "4",
+      "name": "Algeriet",
+      "famCities": [
+        "Algier",
+        "Oran",
+        "Tlemcen",
+        "Adrar"
+      ],
+      "generalInfo": "Algeriet er et land i Nordafrika. Algeriet grænser mod nordøst af Tunesien; mod øst ved Libyen; mod sydøst ved Niger; mod sydvest af Mali, Mauretanien og Vestsahara; mod vest ved Marokko; og mod nord ved Middelhavet. Det anses for at være en del af Maghreb-regionen i Nordafrika. Det har en semi-tør geografi, hvor det meste af befolkningen bor i det frugtbare nord og Sahara dominerer geografien i syd",
+      "area": "2,381,741"
+    },
+    {
+      "id": "5",
+      "name": "Ukraine",
+      "famCities": [
+        "Kyiv",
+        "Odessa",
+        "Lviv",
+        "Kharkiv"
+      ],
+      "generalInfo": "Ukraine er et land i Østeuropa. Det er det næststørste europæiske land efter Rusland, som det grænser op til mod øst og nordøst. Det er også afgrænset af Hviderusland mod nord; af Polen, Slovakiet og Ungarn mod vest; og af Rumænien og Moldova[d] mod sydvest; med en kystlinje langs Sortehavet og Azovhavet mod syd og sydøst. Kiev er landets hovedstad og største by. Ukraines officielle og nationale sprog er ukrainsk; de fleste mennesker taler også flydende russisk",
+      "area": "603,700"
+    },
+    {
+      "id": "6",
+      "name": "Slovakiet",
+      "famCities": [
+        "Bratislava",
+        "Košice",
+        "Nitra",
+        "Trencin"
+      ],
+      "generalInfo": "Slovakiet er et indlandsstat i Centraleuropa. Det grænser op til Polen mod nord, Ukraine mod øst, Ungarn mod syd, Østrig mod sydvest og Tjekkiet mod nordvest. Slovakiets for det meste bjergrige område med en befolkning på over 5,4 millioner",
+      "area": "49,035"
+    },
+    {
+      "id": "7",
+      "name": "Østrig",
+      "famCities": [
+        "Wien",
+        "Graz",
+        "Linz",
+        "Salzburg"
+      ],
+      "generalInfo": "Østrig er et land i den sydlige del af Centraleuropa, der ligger i de østlige alper. Det er en føderation af ni stater, hvoraf den ene er hovedstaden Wien, den mest folkerige by og stat. Østrig er et land uden land, og grænser op til Tyskland mod nordvest, Tjekkiet mod nord, Slovakiet mod nordøst, Ungarn mod øst, Slovenien og Italien mod syd, og Schweiz og Liechtenstein mod vest.",
+      "area": "83,871"
+    },
+    {
+      "id": "8",
+      "name": "Tyskland",
+      "famCities": [
+        "Berlin",
+        "Hamburg",
+        "Stuttgart",
+        "Munchen"
+      ],
+      "generalInfo": "Tyskland er et land i Centraleuropa. Det er det næstmest folkerige land i Europa efter Rusland og det mest folkerige medlemsland i Den Europæiske Union. Tyskland ligger mellem Østersøen og Nordsøen mod nord og Alperne mod syd. Tyskland grænser op til Danmark mod nord, Polen og Tjekkiet mod øst, Østrig og Schweiz mod syd og Frankrig, Luxembourg, Belgien og Holland mod vest.",
+      "area": "357,022"
+    }
+  ]
+}

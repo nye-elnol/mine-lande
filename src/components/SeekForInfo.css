@@ -1,0 +1,22 @@
+.seek {
+  position: relative;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  top: 250px;
+  width: min-content;
+  margin: 0 auto;
+}
+
+.seek input {
+  padding: 15px;
+  margin: 0 auto;
+  border: 2px solid var(--main-clr);
+  width: 500px;
+  height: 50px;
+  border-radius: 25px;
+}

@@ -1,0 +1,30 @@
+.country {
+  max-width: 80%;
+  margin: 40px auto;
+  background: #fff;
+  line-height: 1.4;
+  padding: 40px;
+  box-sizing: border-box;
+}
+
+.country ul {
+  display: flex;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+.country li {
+  list-style-type: none;
+  margin-right: 10px;
+  color: #777;
+}
+.country li::after {
+  content: ",";
+}
+.country li:last-child::after {
+  content: ".";
+}
+.gen-info {
+  text-align: left;
+  line-height: 1.5em;
+}
