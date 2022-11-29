@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mine-lande/static/css/main.ebc89985.css",
+    "main.js": "/mine-lande/static/js/main.4e9f2bfb.js",
+    "static/media/auroraUnsplashOpacity.jpg": "/mine-lande/static/media/auroraUnsplashOpacity.39ab4b08fbe53b9285fe.jpg",
+    "index.html": "/mine-lande/index.html",
+    "main.ebc89985.css.map": "/mine-lande/static/css/main.ebc89985.css.map",
+    "main.4e9f2bfb.js.map": "/mine-lande/static/js/main.4e9f2bfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc89985.css",
+    "static/js/main.4e9f2bfb.js"
+  ]
+}
