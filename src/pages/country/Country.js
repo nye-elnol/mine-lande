@@ -18,7 +18,7 @@ export default function Country() {
           <p>Landets areal er {country.area} kvadratkilometer</p>
           <p>Blandt de berømte byer i dette land, har vi:</p>
           <ul>
-            {country.famCities.map(ct => <li key={ct}></li>)}
+            {country.famCities.map(ct => <li key={ct}>{ct}</li>)}
           </ul>
           <p className="gen-info">{country.generalInfo}</p>
         </>

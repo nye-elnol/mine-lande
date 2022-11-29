@@ -45,9 +45,9 @@ input, textarea {
 }
 
 .share {
-  text-align: center;
+  /* text-align: center; */
   margin: var(--m) auto;
-  color: #333;
+  color: var(--main-clr);
 }
 
 a {
